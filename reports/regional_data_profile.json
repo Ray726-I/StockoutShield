@@ -1,0 +1,19 @@
+{
+  "profile": "expanded",
+  "synthetic": true,
+  "seed": 8,
+  "history_days": 1095,
+  "dataset_version": "548603184b529e46",
+  "counts": {
+    "facilities": 12,
+    "medicines": 20,
+    "batches": 481,
+    "usage": 258896,
+    "orders": 120,
+    "routes": 132
+  },
+  "observed_zero_days": 55702,
+  "stockout_affected_records": 3064,
+  "missing_records": 3904,
+  "note": "The existing reports/summary.csv benchmark uses the original compact fixture, not this expanded network."
+}

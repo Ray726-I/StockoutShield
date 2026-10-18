@@ -1,0 +1,361 @@
+scenario,seed,policy,unmet_units,stockout_days,expired_units,expiry_value,procurement_cost,transfer_cost
+Little transferable surplus,0,Fixed reorder threshold,763,193,0,0.0,10336.0,0.0
+Little transferable surplus,0,Forecast + redistribution,401,107,0,0.0,13587.0,0.0
+Little transferable surplus,0,Forecast reorder,401,107,0,0.0,13587.0,0.0
+Little transferable surplus,1,Fixed reorder threshold,838,210,0,0.0,10730.0,0.0
+Little transferable surplus,1,Forecast + redistribution,448,113,0,0.0,14398.0,0.0
+Little transferable surplus,1,Forecast reorder,448,113,0,0.0,14398.0,0.0
+Little transferable surplus,2,Fixed reorder threshold,791,204,0,0.0,10530.0,0.0
+Little transferable surplus,2,Forecast + redistribution,396,101,0,0.0,13854.0,0.0
+Little transferable surplus,2,Forecast reorder,396,101,0,0.0,13854.0,0.0
+Little transferable surplus,3,Fixed reorder threshold,792,200,0,0.0,9917.0,0.0
+Little transferable surplus,3,Forecast + redistribution,349,91,0,0.0,13497.0,0.0
+Little transferable surplus,3,Forecast reorder,349,91,0,0.0,13497.0,0.0
+Little transferable surplus,4,Fixed reorder threshold,787,202,0,0.0,10377.0,0.0
+Little transferable surplus,4,Forecast + redistribution,416,109,0,0.0,13993.0,0.0
+Little transferable surplus,4,Forecast reorder,416,109,0,0.0,13993.0,0.0
+Little transferable surplus,5,Fixed reorder threshold,782,203,0,0.0,10285.0,0.0
+Little transferable surplus,5,Forecast + redistribution,411,112,0,0.0,13733.0,0.0
+Little transferable surplus,5,Forecast reorder,411,112,0,0.0,13733.0,0.0
+Little transferable surplus,6,Fixed reorder threshold,768,200,0,0.0,9733.0,0.0
+Little transferable surplus,6,Forecast + redistribution,404,108,0,0.0,13058.0,0.0
+Little transferable surplus,6,Forecast reorder,404,108,0,0.0,13058.0,0.0
+Little transferable surplus,7,Fixed reorder threshold,910,220,0,0.0,10307.0,0.0
+Little transferable surplus,7,Forecast + redistribution,406,109,0,0.0,14326.0,0.0
+Little transferable surplus,7,Forecast reorder,406,109,0,0.0,14326.0,0.0
+Little transferable surplus,8,Fixed reorder threshold,966,244,0,0.0,10540.0,0.0
+Little transferable surplus,8,Forecast + redistribution,497,130,0,0.0,14273.0,0.0
+Little transferable surplus,8,Forecast reorder,497,130,0,0.0,14273.0,0.0
+Little transferable surplus,9,Fixed reorder threshold,802,200,0,0.0,10627.0,0.0
+Little transferable surplus,9,Forecast + redistribution,407,112,0,0.0,13828.0,0.0
+Little transferable surplus,9,Forecast reorder,407,112,0,0.0,13828.0,0.0
+Little transferable surplus,10,Fixed reorder threshold,870,202,0,0.0,10390.0,0.0
+Little transferable surplus,10,Forecast + redistribution,435,106,0,0.0,14329.0,0.0
+Little transferable surplus,10,Forecast reorder,435,106,0,0.0,14329.0,0.0
+Little transferable surplus,11,Fixed reorder threshold,734,192,0,0.0,10625.0,0.0
+Little transferable surplus,11,Forecast + redistribution,385,105,0,0.0,13840.0,0.0
+Little transferable surplus,11,Forecast reorder,385,105,0,0.0,13840.0,0.0
+Little transferable surplus,12,Fixed reorder threshold,793,206,0,0.0,10401.0,0.0
+Little transferable surplus,12,Forecast + redistribution,427,116,0,0.0,13241.0,0.0
+Little transferable surplus,12,Forecast reorder,427,116,0,0.0,13241.0,0.0
+Little transferable surplus,13,Fixed reorder threshold,857,206,0,0.0,10396.0,0.0
+Little transferable surplus,13,Forecast + redistribution,429,110,0,0.0,13749.0,0.0
+Little transferable surplus,13,Forecast reorder,429,110,0,0.0,13749.0,0.0
+Little transferable surplus,14,Fixed reorder threshold,888,210,0,0.0,10268.0,0.0
+Little transferable surplus,14,Forecast + redistribution,435,115,0,0.0,13913.0,0.0
+Little transferable surplus,14,Forecast reorder,435,115,0,0.0,13913.0,0.0
+Little transferable surplus,15,Fixed reorder threshold,850,205,0,0.0,10789.0,0.0
+Little transferable surplus,15,Forecast + redistribution,440,107,0,0.0,13851.0,0.0
+Little transferable surplus,15,Forecast reorder,440,107,0,0.0,13851.0,0.0
+Little transferable surplus,16,Fixed reorder threshold,864,209,0,0.0,11142.0,0.0
+Little transferable surplus,16,Forecast + redistribution,458,109,0,0.0,14616.0,0.0
+Little transferable surplus,16,Forecast reorder,458,109,0,0.0,14616.0,0.0
+Little transferable surplus,17,Fixed reorder threshold,751,190,0,0.0,10060.0,0.0
+Little transferable surplus,17,Forecast + redistribution,398,110,0,0.0,13297.0,0.0
+Little transferable surplus,17,Forecast reorder,398,110,0,0.0,13297.0,0.0
+Little transferable surplus,18,Fixed reorder threshold,765,207,0,0.0,10957.0,0.0
+Little transferable surplus,18,Forecast + redistribution,364,110,0,0.0,14578.0,0.0
+Little transferable surplus,18,Forecast reorder,364,110,0,0.0,14578.0,0.0
+Little transferable surplus,19,Fixed reorder threshold,693,195,0,0.0,10234.0,0.0
+Little transferable surplus,19,Forecast + redistribution,385,107,0,0.0,13370.0,0.0
+Little transferable surplus,19,Forecast reorder,385,107,0,0.0,13370.0,0.0
+Local demand surge,0,Fixed reorder threshold,401,78,834,2019.2,6501.0,0.0
+Local demand surge,0,Forecast + redistribution,30,6,646,1317.2,9643.0,311.0
+Local demand surge,0,Forecast reorder,197,31,834,2019.2,9775.0,0.0
+Local demand surge,1,Fixed reorder threshold,482,103,775,1841.7,6813.0,0.0
+Local demand surge,1,Forecast + redistribution,32,9,567,1121.7,9993.0,304.0
+Local demand surge,1,Forecast reorder,199,33,775,1841.7,10308.0,0.0
+Local demand surge,2,Fixed reorder threshold,441,86,801,1843.2,6912.0,0.0
+Local demand surge,2,Forecast + redistribution,31,7,607,1140.4,9893.0,293.0
+Local demand surge,2,Forecast reorder,193,31,801,1843.2,10081.0,0.0
+Local demand surge,3,Fixed reorder threshold,491,94,895,1835.0,6442.0,0.0
+Local demand surge,3,Forecast + redistribution,37,5,657,1093.0,9288.0,314.0
+Local demand surge,3,Forecast reorder,262,42,895,1835.0,9410.0,0.0
+Local demand surge,4,Fixed reorder threshold,451,90,784,1754.1,7156.0,0.0
+Local demand surge,4,Forecast + redistribution,36,12,566,1038.1,9934.0,313.0
+Local demand surge,4,Forecast reorder,223,35,784,1754.1,10082.0,0.0
+Local demand surge,5,Fixed reorder threshold,447,89,779,1803.4,6296.0,0.0
+Local demand surge,5,Forecast + redistribution,64,13,591,1105.4,9558.0,279.0
+Local demand surge,5,Forecast reorder,233,33,779,1803.4,9718.0,0.0
+Local demand surge,6,Fixed reorder threshold,419,93,824,1896.9,6514.0,0.0
+Local demand surge,6,Forecast + redistribution,28,7,616,1172.9,9123.0,284.0
+Local demand surge,6,Forecast reorder,194,35,824,1896.9,9356.0,0.0
+Local demand surge,7,Fixed reorder threshold,517,92,812,1810.9,6743.0,0.0
+Local demand surge,7,Forecast + redistribution,40,12,624,1112.9,9694.0,279.0
+Local demand surge,7,Forecast reorder,205,32,812,1810.9,9842.0,0.0
+Local demand surge,8,Fixed reorder threshold,505,105,758,1855.5,6719.0,0.0
+Local demand surge,8,Forecast + redistribution,43,10,550,1131.5,10017.0,318.0
+Local demand surge,8,Forecast reorder,230,41,758,1855.5,10128.0,0.0
+Local demand surge,9,Fixed reorder threshold,398,87,821,1877.9,7057.0,0.0
+Local demand surge,9,Forecast + redistribution,29,11,613,1163.9,9948.0,302.0
+Local demand surge,9,Forecast reorder,196,38,821,1877.9,10198.0,0.0
+Local demand surge,10,Fixed reorder threshold,501,108,840,1979.8,6663.0,0.0
+Local demand surge,10,Forecast + redistribution,44,11,632,1262.8,10430.0,324.0
+Local demand surge,10,Forecast reorder,232,41,840,1979.8,10551.0,0.0
+Local demand surge,11,Fixed reorder threshold,449,94,800,1812.0,6875.0,0.0
+Local demand surge,11,Forecast + redistribution,35,8,612,1111.0,9827.0,290.0
+Local demand surge,11,Forecast reorder,184,30,800,1812.0,10155.0,0.0
+Local demand surge,12,Fixed reorder threshold,437,95,754,1779.1,6201.0,0.0
+Local demand surge,12,Forecast + redistribution,30,9,556,1065.1,8860.0,312.0
+Local demand surge,12,Forecast reorder,190,37,754,1779.1,9273.0,0.0
+Local demand surge,13,Fixed reorder threshold,507,97,795,1906.4,6014.0,0.0
+Local demand surge,13,Forecast + redistribution,36,12,597,1192.4,9804.0,301.0
+Local demand surge,13,Forecast reorder,213,37,795,1906.4,9889.0,0.0
+Local demand surge,14,Fixed reorder threshold,499,93,814,1888.5,6626.0,0.0
+Local demand surge,14,Forecast + redistribution,50,6,596,1158.5,9776.0,296.0
+Local demand surge,14,Forecast reorder,227,34,814,1888.5,9912.0,0.0
+Local demand surge,15,Fixed reorder threshold,529,105,847,1851.5,6989.0,0.0
+Local demand surge,15,Forecast + redistribution,45,10,620,1124.4,9713.0,325.0
+Local demand surge,15,Forecast reorder,238,37,847,1851.5,9864.0,0.0
+Local demand surge,16,Fixed reorder threshold,456,94,780,1829.3,6518.0,0.0
+Local demand surge,16,Forecast + redistribution,49,10,592,1131.3,9742.0,305.0
+Local demand surge,16,Forecast reorder,187,27,780,1829.3,10054.0,0.0
+Local demand surge,17,Fixed reorder threshold,420,93,851,1802.0,6690.0,0.0
+Local demand surge,17,Forecast + redistribution,16,4,643,1078.0,9546.0,295.0
+Local demand surge,17,Forecast reorder,187,32,851,1802.0,9759.0,0.0
+Local demand surge,18,Fixed reorder threshold,509,95,761,1800.9,7101.0,0.0
+Local demand surge,18,Forecast + redistribution,32,10,554,1078.2,10455.0,284.0
+Local demand surge,18,Forecast reorder,206,34,761,1800.9,10584.0,0.0
+Local demand surge,19,Fixed reorder threshold,437,88,887,1950.1,6952.0,0.0
+Local demand surge,19,Forecast + redistribution,42,10,689,1242.1,9606.0,343.0
+Local demand surge,19,Forecast reorder,201,33,887,1950.1,9810.0,0.0
+Normal operations,0,Fixed reorder threshold,339,83,826,1868.5,6065.0,0.0
+Normal operations,0,Forecast + redistribution,13,4,636,1150.5,9144.0,312.0
+Normal operations,0,Forecast reorder,143,32,826,1868.5,9454.0,0.0
+Normal operations,1,Fixed reorder threshold,395,94,797,1787.9,6540.0,0.0
+Normal operations,1,Forecast + redistribution,41,14,582,1075.9,9888.0,287.0
+Normal operations,1,Forecast reorder,190,41,797,1787.9,10173.0,0.0
+Normal operations,2,Fixed reorder threshold,385,97,769,1654.7,6131.0,0.0
+Normal operations,2,Forecast + redistribution,29,10,591,962.7,9072.0,333.0
+Normal operations,2,Forecast reorder,146,33,769,1654.7,9474.0,0.0
+Normal operations,3,Fixed reorder threshold,330,81,785,1815.4,6176.0,0.0
+Normal operations,3,Forecast + redistribution,4,3,597,1113.4,8727.0,285.0
+Normal operations,3,Forecast reorder,124,28,785,1815.4,9173.0,0.0
+Normal operations,4,Fixed reorder threshold,390,92,817,1858.6,6526.0,0.0
+Normal operations,4,Forecast + redistribution,18,8,590,1130.6,9365.0,346.0
+Normal operations,4,Forecast reorder,185,42,817,1858.6,9714.0,0.0
+Normal operations,5,Fixed reorder threshold,331,89,786,1844.3,6753.0,0.0
+Normal operations,5,Forecast + redistribution,32,10,592,1131.5,9117.0,282.0
+Normal operations,5,Forecast reorder,156,36,786,1844.3,9488.0,0.0
+Normal operations,6,Fixed reorder threshold,383,87,819,1878.9,5781.0,0.0
+Normal operations,6,Forecast + redistribution,27,9,641,1186.9,8486.0,329.0
+Normal operations,6,Forecast reorder,138,29,819,1878.9,8904.0,0.0
+Normal operations,7,Fixed reorder threshold,416,90,722,1808.3,6240.0,0.0
+Normal operations,7,Forecast + redistribution,19,6,533,1091.3,9993.0,284.0
+Normal operations,7,Forecast reorder,151,33,722,1808.3,10173.0,0.0
+Normal operations,8,Fixed reorder threshold,398,98,687,1780.8,7061.0,0.0
+Normal operations,8,Forecast + redistribution,30,11,509,1088.8,9813.0,313.0
+Normal operations,8,Forecast reorder,144,31,687,1780.8,10205.0,0.0
+Normal operations,9,Fixed reorder threshold,344,84,782,1698.6,6622.0,0.0
+Normal operations,9,Forecast + redistribution,8,3,564,965.6,9135.0,325.0
+Normal operations,9,Forecast reorder,111,29,782,1698.6,9569.0,0.0
+Normal operations,10,Fixed reorder threshold,471,99,847,1878.7,6183.0,0.0
+Normal operations,10,Forecast + redistribution,14,5,619,1128.7,9834.0,323.0
+Normal operations,10,Forecast reorder,168,34,847,1878.7,10238.0,0.0
+Normal operations,11,Fixed reorder threshold,356,77,780,1722.2,6268.0,0.0
+Normal operations,11,Forecast + redistribution,13,5,582,1004.2,9145.0,282.0
+Normal operations,11,Forecast reorder,122,28,780,1722.2,9522.0,0.0
+Normal operations,12,Fixed reorder threshold,364,89,767,2017.1,6112.0,0.0
+Normal operations,12,Forecast + redistribution,13,6,579,1315.1,8793.0,323.0
+Normal operations,12,Forecast reorder,149,33,767,2017.1,9139.0,0.0
+Normal operations,13,Fixed reorder threshold,377,82,826,1888.2,6748.0,0.0
+Normal operations,13,Forecast + redistribution,19,5,628,1178.2,9169.0,298.0
+Normal operations,13,Forecast reorder,140,32,826,1888.2,9531.0,0.0
+Normal operations,14,Fixed reorder threshold,357,77,779,1813.9,6486.0,0.0
+Normal operations,14,Forecast + redistribution,19,8,601,1121.9,9305.0,325.0
+Normal operations,14,Forecast reorder,145,29,779,1813.9,9641.0,0.0
+Normal operations,15,Fixed reorder threshold,395,94,774,1798.9,6918.0,0.0
+Normal operations,15,Forecast + redistribution,29,11,576,1084.9,9181.0,320.0
+Normal operations,15,Forecast reorder,152,38,774,1798.9,9604.0,0.0
+Normal operations,16,Fixed reorder threshold,379,95,801,1746.6,7142.0,0.0
+Normal operations,16,Forecast + redistribution,17,9,603,1036.6,10280.0,306.0
+Normal operations,16,Forecast reorder,172,36,801,1746.6,10471.0,0.0
+Normal operations,17,Fixed reorder threshold,344,83,754,1901.3,6104.0,0.0
+Normal operations,17,Forecast + redistribution,23,7,526,1151.3,8919.0,299.0
+Normal operations,17,Forecast reorder,164,36,754,1901.3,9218.0,0.0
+Normal operations,18,Fixed reorder threshold,387,88,734,1709.2,6734.0,0.0
+Normal operations,18,Forecast + redistribution,3,2,496,949.2,9886.0,299.0
+Normal operations,18,Forecast reorder,159,35,734,1709.2,10235.0,0.0
+Normal operations,19,Fixed reorder threshold,322,85,791,1861.8,6352.0,0.0
+Normal operations,19,Forecast + redistribution,5,2,563,1125.8,8767.0,313.0
+Normal operations,19,Forecast reorder,149,35,791,1861.8,9163.0,0.0
+Route disruption,0,Fixed reorder threshold,339,83,826,1868.5,6065.0,0.0
+Route disruption,0,Forecast + redistribution,13,4,636,1150.5,9144.0,312.0
+Route disruption,0,Forecast reorder,143,32,826,1868.5,9454.0,0.0
+Route disruption,1,Fixed reorder threshold,395,94,797,1787.9,6540.0,0.0
+Route disruption,1,Forecast + redistribution,41,14,582,1075.9,9888.0,287.0
+Route disruption,1,Forecast reorder,190,41,797,1787.9,10173.0,0.0
+Route disruption,2,Fixed reorder threshold,385,97,769,1654.7,6131.0,0.0
+Route disruption,2,Forecast + redistribution,29,10,591,962.7,9072.0,333.0
+Route disruption,2,Forecast reorder,146,33,769,1654.7,9474.0,0.0
+Route disruption,3,Fixed reorder threshold,330,81,785,1815.4,6176.0,0.0
+Route disruption,3,Forecast + redistribution,4,3,597,1113.4,8727.0,285.0
+Route disruption,3,Forecast reorder,124,28,785,1815.4,9173.0,0.0
+Route disruption,4,Fixed reorder threshold,390,92,817,1858.6,6526.0,0.0
+Route disruption,4,Forecast + redistribution,18,8,590,1130.6,9365.0,346.0
+Route disruption,4,Forecast reorder,185,42,817,1858.6,9714.0,0.0
+Route disruption,5,Fixed reorder threshold,331,89,786,1844.3,6753.0,0.0
+Route disruption,5,Forecast + redistribution,32,10,592,1131.5,9117.0,282.0
+Route disruption,5,Forecast reorder,156,36,786,1844.3,9488.0,0.0
+Route disruption,6,Fixed reorder threshold,383,87,819,1878.9,5781.0,0.0
+Route disruption,6,Forecast + redistribution,27,9,641,1186.9,8486.0,329.0
+Route disruption,6,Forecast reorder,138,29,819,1878.9,8904.0,0.0
+Route disruption,7,Fixed reorder threshold,416,90,722,1808.3,6240.0,0.0
+Route disruption,7,Forecast + redistribution,19,6,533,1091.3,9993.0,284.0
+Route disruption,7,Forecast reorder,151,33,722,1808.3,10173.0,0.0
+Route disruption,8,Fixed reorder threshold,398,98,687,1780.8,7061.0,0.0
+Route disruption,8,Forecast + redistribution,30,11,509,1088.8,9813.0,313.0
+Route disruption,8,Forecast reorder,144,31,687,1780.8,10205.0,0.0
+Route disruption,9,Fixed reorder threshold,344,84,782,1698.6,6622.0,0.0
+Route disruption,9,Forecast + redistribution,8,3,564,965.6,9135.0,325.0
+Route disruption,9,Forecast reorder,111,29,782,1698.6,9569.0,0.0
+Route disruption,10,Fixed reorder threshold,471,99,847,1878.7,6183.0,0.0
+Route disruption,10,Forecast + redistribution,14,5,619,1128.7,9834.0,323.0
+Route disruption,10,Forecast reorder,168,34,847,1878.7,10238.0,0.0
+Route disruption,11,Fixed reorder threshold,356,77,780,1722.2,6268.0,0.0
+Route disruption,11,Forecast + redistribution,13,5,582,1004.2,9145.0,282.0
+Route disruption,11,Forecast reorder,122,28,780,1722.2,9522.0,0.0
+Route disruption,12,Fixed reorder threshold,364,89,767,2017.1,6112.0,0.0
+Route disruption,12,Forecast + redistribution,13,6,579,1315.1,8793.0,323.0
+Route disruption,12,Forecast reorder,149,33,767,2017.1,9139.0,0.0
+Route disruption,13,Fixed reorder threshold,377,82,826,1888.2,6748.0,0.0
+Route disruption,13,Forecast + redistribution,19,5,628,1178.2,9169.0,298.0
+Route disruption,13,Forecast reorder,140,32,826,1888.2,9531.0,0.0
+Route disruption,14,Fixed reorder threshold,357,77,779,1813.9,6486.0,0.0
+Route disruption,14,Forecast + redistribution,19,8,601,1121.9,9305.0,325.0
+Route disruption,14,Forecast reorder,145,29,779,1813.9,9641.0,0.0
+Route disruption,15,Fixed reorder threshold,395,94,774,1798.9,6918.0,0.0
+Route disruption,15,Forecast + redistribution,29,11,576,1084.9,9181.0,320.0
+Route disruption,15,Forecast reorder,152,38,774,1798.9,9604.0,0.0
+Route disruption,16,Fixed reorder threshold,379,95,801,1746.6,7142.0,0.0
+Route disruption,16,Forecast + redistribution,17,9,603,1036.6,10280.0,306.0
+Route disruption,16,Forecast reorder,172,36,801,1746.6,10471.0,0.0
+Route disruption,17,Fixed reorder threshold,344,83,754,1901.3,6104.0,0.0
+Route disruption,17,Forecast + redistribution,23,7,526,1151.3,8919.0,299.0
+Route disruption,17,Forecast reorder,164,36,754,1901.3,9218.0,0.0
+Route disruption,18,Fixed reorder threshold,387,88,734,1709.2,6734.0,0.0
+Route disruption,18,Forecast + redistribution,3,2,496,949.2,9886.0,299.0
+Route disruption,18,Forecast reorder,159,35,734,1709.2,10235.0,0.0
+Route disruption,19,Fixed reorder threshold,322,85,791,1861.8,6352.0,0.0
+Route disruption,19,Forecast + redistribution,5,2,563,1125.8,8767.0,313.0
+Route disruption,19,Forecast reorder,149,35,791,1861.8,9163.0,0.0
+Short-dated surplus,0,Fixed reorder threshold,438,98,1330,2866.7,7101.0,0.0
+Short-dated surplus,0,Forecast + redistribution,39,14,1211,2424.7,10391.0,168.0
+Short-dated surplus,0,Forecast reorder,143,32,1330,2866.7,10475.0,0.0
+Short-dated surplus,1,Fixed reorder threshold,502,114,1308,2804.0,7054.0,0.0
+Short-dated surplus,1,Forecast + redistribution,92,26,1197,2426.0,11077.0,134.0
+Short-dated surplus,1,Forecast reorder,190,41,1308,2804.0,11195.0,0.0
+Short-dated surplus,2,Fixed reorder threshold,434,108,1305,2710.2,7246.0,0.0
+Short-dated surplus,2,Forecast + redistribution,47,16,1196,2348.2,10338.0,176.0
+Short-dated surplus,2,Forecast reorder,146,33,1305,2710.2,10498.0,0.0
+Short-dated surplus,3,Fixed reorder threshold,405,97,1305,2846.2,6805.0,0.0
+Short-dated surplus,3,Forecast + redistribution,38,14,1205,2528.2,10037.0,141.0
+Short-dated surplus,3,Forecast reorder,124,28,1305,2846.2,10153.0,0.0
+Short-dated surplus,4,Fixed reorder threshold,471,108,1312,2801.8,6759.0,0.0
+Short-dated surplus,4,Forecast + redistribution,66,22,1180,2403.8,10492.0,193.0
+Short-dated surplus,4,Forecast reorder,185,42,1312,2801.8,10676.0,0.0
+Short-dated surplus,5,Fixed reorder threshold,386,104,1296,2803.4,7071.0,0.0
+Short-dated surplus,5,Forecast + redistribution,62,17,1188,2449.4,10332.0,129.0
+Short-dated surplus,5,Forecast reorder,156,36,1296,2803.4,10460.0,0.0
+Short-dated surplus,6,Fixed reorder threshold,406,90,1315,2802.8,6823.0,0.0
+Short-dated surplus,6,Forecast + redistribution,47,14,1206,2440.8,9661.0,165.0
+Short-dated surplus,6,Forecast reorder,138,29,1315,2802.8,9819.0,0.0
+Short-dated surplus,7,Fixed reorder threshold,445,105,1282,2853.8,7371.0,0.0
+Short-dated surplus,7,Forecast + redistribution,48,15,1167,2443.8,11169.0,144.0
+Short-dated surplus,7,Forecast reorder,151,33,1282,2853.8,11225.0,0.0
+Short-dated surplus,8,Fixed reorder threshold,472,113,1268,2822.3,7404.0,0.0
+Short-dated surplus,8,Forecast + redistribution,46,15,1159,2460.3,11164.0,157.0
+Short-dated surplus,8,Forecast reorder,144,31,1268,2822.3,11238.0,0.0
+Short-dated surplus,9,Fixed reorder threshold,378,90,1289,2728.2,7271.0,0.0
+Short-dated surplus,9,Forecast + redistribution,23,9,1181,2352.8,10450.0,160.0
+Short-dated surplus,9,Forecast reorder,111,29,1289,2728.2,10594.0,0.0
+Short-dated surplus,10,Fixed reorder threshold,529,120,1332,2828.7,6745.0,0.0
+Short-dated surplus,10,Forecast + redistribution,68,18,1224,2467.7,11047.0,143.0
+Short-dated surplus,10,Forecast reorder,168,34,1332,2828.7,11173.0,0.0
+Short-dated surplus,11,Fixed reorder threshold,370,85,1321,2752.0,7371.0,0.0
+Short-dated surplus,11,Forecast + redistribution,35,12,1213,2390.6,10454.0,145.0
+Short-dated surplus,11,Forecast reorder,122,28,1321,2752.0,10550.0,0.0
+Short-dated surplus,12,Fixed reorder threshold,422,104,1295,2912.7,6855.0,0.0
+Short-dated surplus,12,Forecast + redistribution,43,14,1180,2502.7,9950.0,178.0
+Short-dated surplus,12,Forecast reorder,149,33,1295,2912.7,10026.0,0.0
+Short-dated surplus,13,Fixed reorder threshold,452,99,1364,2911.7,7233.0,0.0
+Short-dated surplus,13,Forecast + redistribution,52,14,1255,2549.7,10391.0,145.0
+Short-dated surplus,13,Forecast reorder,140,32,1364,2911.7,10529.0,0.0
+Short-dated surplus,14,Fixed reorder threshold,392,91,1283,2735.2,6734.0,0.0
+Short-dated surplus,14,Forecast + redistribution,42,12,1173,2344.2,10499.0,157.0
+Short-dated surplus,14,Forecast reorder,145,29,1283,2735.2,10585.0,0.0
+Short-dated surplus,15,Fixed reorder threshold,468,114,1292,2760.3,7185.0,0.0
+Short-dated surplus,15,Forecast + redistribution,50,17,1176,2342.3,10401.0,173.0
+Short-dated surplus,15,Forecast reorder,152,38,1292,2760.3,10575.0,0.0
+Short-dated surplus,16,Fixed reorder threshold,440,103,1279,2682.9,7354.0,0.0
+Short-dated surplus,16,Forecast + redistribution,58,18,1162,2256.9,11359.0,163.0
+Short-dated surplus,16,Forecast reorder,172,36,1279,2682.9,11423.0,0.0
+Short-dated surplus,17,Fixed reorder threshold,405,93,1293,2801.8,6888.0,0.0
+Short-dated surplus,17,Forecast + redistribution,62,21,1180,2407.8,10028.0,139.0
+Short-dated surplus,17,Forecast reorder,164,36,1293,2801.8,10140.0,0.0
+Short-dated surplus,18,Fixed reorder threshold,470,97,1266,2734.9,7484.0,0.0
+Short-dated surplus,18,Forecast + redistribution,41,13,1144,2317.9,11182.0,160.0
+Short-dated surplus,18,Forecast reorder,159,35,1266,2734.9,11274.0,0.0
+Short-dated surplus,19,Fixed reorder threshold,382,99,1302,2811.0,7066.0,0.0
+Short-dated surplus,19,Forecast + redistribution,58,15,1193,2449.0,9981.0,153.0
+Short-dated surplus,19,Forecast reorder,149,35,1302,2811.0,10103.0,0.0
+Supplier delay,0,Fixed reorder threshold,1421,286,826,1868.5,3983.0,0.0
+Supplier delay,0,Forecast + redistribution,125,34,475,764.4,8576.0,374.0
+Supplier delay,0,Forecast reorder,454,99,826,1868.5,8710.0,0.0
+Supplier delay,1,Fixed reorder threshold,1495,295,797,1787.9,3786.0,0.0
+Supplier delay,1,Forecast + redistribution,148,45,426,838.9,9344.0,368.0
+Supplier delay,1,Forecast reorder,491,107,797,1787.9,9410.0,0.0
+Supplier delay,2,Fixed reorder threshold,1462,301,769,1654.7,4248.0,0.0
+Supplier delay,2,Forecast + redistribution,109,33,415,709.0,8705.0,379.0
+Supplier delay,2,Forecast reorder,431,99,769,1654.7,8844.0,0.0
+Supplier delay,3,Fixed reorder threshold,1417,285,785,1815.4,3826.0,0.0
+Supplier delay,3,Forecast + redistribution,97,33,462,919.4,8421.0,341.0
+Supplier delay,3,Forecast reorder,396,85,785,1815.4,8513.0,0.0
+Supplier delay,4,Fixed reorder threshold,1485,301,817,1858.6,3947.0,0.0
+Supplier delay,4,Forecast + redistribution,132,41,446,949.6,9027.0,390.0
+Supplier delay,4,Forecast reorder,483,113,817,1858.6,9120.0,0.0
+Supplier delay,5,Fixed reorder threshold,1412,293,786,1844.3,3763.0,0.0
+Supplier delay,5,Forecast + redistribution,126,37,440,905.3,8761.0,348.0
+Supplier delay,5,Forecast reorder,432,102,786,1844.3,8955.0,0.0
+Supplier delay,6,Fixed reorder threshold,1445,293,819,1878.9,3796.0,0.0
+Supplier delay,6,Forecast + redistribution,114,36,471,892.9,8031.0,364.0
+Supplier delay,6,Forecast reorder,419,95,819,1878.9,8280.0,0.0
+Supplier delay,7,Fixed reorder threshold,1507,280,722,1808.3,3979.0,0.0
+Supplier delay,7,Forecast + redistribution,118,33,379,694.9,9331.0,388.0
+Supplier delay,7,Forecast reorder,452,100,722,1808.3,9449.0,0.0
+Supplier delay,8,Fixed reorder threshold,1601,325,687,1780.8,3930.0,0.0
+Supplier delay,8,Forecast + redistribution,149,39,332,689.5,9202.0,394.0
+Supplier delay,8,Forecast reorder,473,107,687,1780.8,9386.0,0.0
+Supplier delay,9,Fixed reorder threshold,1464,298,782,1698.6,3858.0,0.0
+Supplier delay,9,Forecast + redistribution,119,38,448,736.6,8761.0,363.0
+Supplier delay,9,Forecast reorder,435,102,782,1698.6,8914.0,0.0
+Supplier delay,10,Fixed reorder threshold,1600,303,847,1878.7,3845.0,0.0
+Supplier delay,10,Forecast + redistribution,134,38,453,771.5,9272.0,414.0
+Supplier delay,10,Forecast reorder,489,107,847,1878.7,9428.0,0.0
+Supplier delay,11,Fixed reorder threshold,1414,291,780,1722.2,4225.0,0.0
+Supplier delay,11,Forecast + redistribution,141,41,438,829.2,8744.0,332.0
+Supplier delay,11,Forecast reorder,406,99,780,1722.2,8832.0,0.0
+Supplier delay,12,Fixed reorder threshold,1471,301,767,2017.1,3837.0,0.0
+Supplier delay,12,Forecast + redistribution,107,33,431,1065.1,8440.0,378.0
+Supplier delay,12,Forecast reorder,434,94,767,2017.1,8566.0,0.0
+Supplier delay,13,Fixed reorder threshold,1485,288,826,1888.2,4335.0,0.0
+Supplier delay,13,Forecast + redistribution,126,33,455,1007.6,8831.0,360.0
+Supplier delay,13,Forecast reorder,465,100,826,1888.2,8829.0,0.0
+Supplier delay,14,Fixed reorder threshold,1520,311,779,1813.9,3987.0,0.0
+Supplier delay,14,Forecast + redistribution,111,34,371,696.5,8727.0,398.0
+Supplier delay,14,Forecast reorder,455,106,779,1813.9,8864.0,0.0
+Supplier delay,15,Fixed reorder threshold,1493,297,774,1798.9,4016.0,0.0
+Supplier delay,15,Forecast + redistribution,130,37,385,762.9,8787.0,409.0
+Supplier delay,15,Forecast reorder,485,109,774,1798.9,9025.0,0.0
+Supplier delay,16,Fixed reorder threshold,1461,306,801,1746.6,4314.0,0.0
+Supplier delay,16,Forecast + redistribution,111,32,422,646.6,9581.0,373.0
+Supplier delay,16,Forecast reorder,467,101,801,1746.6,9684.0,0.0
+Supplier delay,17,Fixed reorder threshold,1393,286,754,1901.3,4068.0,0.0
+Supplier delay,17,Forecast + redistribution,73,28,366,829.6,8526.0,391.0
+Supplier delay,17,Forecast reorder,395,96,754,1901.3,8688.0,0.0
+Supplier delay,18,Fixed reorder threshold,1494,299,734,1709.2,3906.0,0.0
+Supplier delay,18,Forecast + redistribution,110,34,370,670.2,9411.0,369.0
+Supplier delay,18,Forecast reorder,453,101,734,1709.2,9452.0,0.0
+Supplier delay,19,Fixed reorder threshold,1369,273,791,1861.8,3867.0,0.0
+Supplier delay,19,Forecast + redistribution,92,28,436,859.4,8356.0,387.0
+Supplier delay,19,Forecast reorder,423,97,791,1861.8,8470.0,0.0

@@ -1,0 +1,21 @@
+medicine_id,ingredient,strength,formulation,unit,pack_size,unit_cost
+M01,Paracetamol,500 mg,tablet,tablet,10,0.6
+M02,Oral rehydration salts,20.5 g,powder,sachet,1,8.0
+M03,Metformin,500 mg,tablet,tablet,10,1.2
+M04,Amlodipine,5 mg,tablet,tablet,10,0.9
+M05,Cetirizine,10 mg,tablet,tablet,10,0.8
+M06,Zinc sulfate,20 mg elemental zinc,dispersible tablet,tablet,10,1.0
+M07,Ferrous sulfate + folic acid,60 mg + 500 mcg,tablet,tablet,10,1.1
+M08,Omeprazole,20 mg,capsule,capsule,10,1.5
+M09,Calcium carbonate,500 mg elemental calcium,tablet,tablet,10,1.3
+M10,Clotrimazole,"1% w/w, 15 g",cream,tube,1,12.0
+M11,Paracetamol,"250 mg / 5 mL, 60 mL",oral suspension,bottle,1,18.0
+M12,Ibuprofen,200 mg,tablet,tablet,10,1.0
+M13,Folic acid,5 mg,tablet,tablet,10,0.5
+M14,Losartan,50 mg,tablet,tablet,10,1.8
+M15,Atenolol,50 mg,tablet,tablet,10,1.0
+M16,Levothyroxine,50 mcg,tablet,tablet,10,1.2
+M17,Albendazole,400 mg,chewable tablet,tablet,1,5.0
+M18,Salbutamol,"100 mcg / actuation, 200 doses",inhaler,inhaler,1,85.0
+M19,Povidone iodine,"5% w/v, 100 mL",topical solution,bottle,1,35.0
+M20,Vitamin C,500 mg,tablet,tablet,10,1.5
